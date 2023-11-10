@@ -37,3 +37,5 @@ build/
 ### Mac OS ###
 .DS_Store
 .idea/
+*.jar
+dependency-reduced-pom.xml
